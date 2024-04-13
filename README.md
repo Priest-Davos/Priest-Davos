@@ -9,7 +9,7 @@ started the journey with C++ language.then explored web dev . Now exploring Data
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [priestdavos@gmail.com](mailto:priestdavos@gmail.com)
 * 🚀  I'm currently working on [React Js App](http://will update)
-* 🧠  I'm learning React js., Django
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Machine Learning
 
 ### Skills
