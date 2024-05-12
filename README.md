@@ -8,7 +8,7 @@ started the journey with C++ language.then explored web dev . Now exploring Data
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [priestdavos@gmail.com](mailto:priestdavos@gmail.com)
-* 🚀  I'm currently working on Resume analyzer project
+* 🚀  I'm currently working on AI  Resume Parser and Analyzer project
 * 🧠  I'm learning to create  Rest API using Django Rest Framework
 * 🤝  I'm open to collaborating on Machine Learning
 
