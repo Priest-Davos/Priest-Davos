@@ -6,7 +6,7 @@ Data Science
 
 started the journey with C++ language.then explored web dev . Now exploring Data Science field
 
-* 🌍  I'm based in Delhi
+* 🌍  I'm based in vion
 * ✉️  You can contact me at [priestdavos@gmail.com](mailto:priestdavos@gmail.com)
 * 🚀  I'm currently working on AI  Resume Parser and Analyzer project and AI chat(whatsapp) analyzer project 
 * 🧠  I'm learning to create  Rest API using Django Rest Framework
