@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science
 -------------------------
 
-started the journey with C++ language , then explored web dev . Now exploring Data Science field
+started the journey with C++ language then explored web dev . Now exploring Data Science field
 
 * 🌍  I'm based in vion
 * ✉️  You can contact me at [priestdavos@gmail.com](mailto:priestdavos@gmail.com)
