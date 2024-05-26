@@ -10,7 +10,7 @@ started the journey with C++ language then explored web dev. Now exploring Data 
 * ✉️  You can contact me at [priestdavos@gmail.com](mailto:priestdavos@gmail.com)
 * 🚀  I'm currently working on AI  Resume Parser and Analyzer project and AI chat(whatsapp) analyzer project 
 * 🧠  I'm learning to create  Rest API using Django Rest Framework
-* 🤝  I'm open to collaborating on Machine Learning
+* 🤝  I'm open to collaborating on Machine Learning .
 
 ### Skills
 
